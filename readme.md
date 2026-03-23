@@ -44,9 +44,6 @@ Boundary condition:
 ### 🔹 Poisson Solution  
 ![Solution](images/solution.png)
 
-### 🔹 Convergence  
-![Convergence](images/convergence.png)
-
 ---
 
 ## 🚀 How to Run  
